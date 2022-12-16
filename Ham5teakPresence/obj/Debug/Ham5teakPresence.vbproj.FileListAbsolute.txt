@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\bin\Debug\Ham5teakPresence.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\bin\Debug\Ham5teakPresence.exe
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\bin\Debug\Ham5teakPresence.pdb
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.CMessageB.resources
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.Custom.resources
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.CustomHelp.resources
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.Form1.resources
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.vbproj.Fody.CopyLocal.cache
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.exe
+C:\Users\MONSTERMC\Downloads\New folder (21)\Ham5teakPresence\obj\Debug\Ham5teakPresence.pdb
